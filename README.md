@@ -15,6 +15,7 @@ Understand user commands using NLP techniques.
 Generate intelligent responses.
 Convert text responses into speech.
 Automate basic tasks through voice commands.
+
 ✨ Features
 🎤 Voice Command Recognition
 🔊 Text-to-Speech Response
@@ -43,6 +44,7 @@ Speaker/Headphones
 Software Requirements
 Python 3.8+
 Visual Studio Code / PyCharm
+
 Required Python Libraries
 📦 Required Libraries
 pip install speechrecognition
@@ -60,6 +62,7 @@ Voice-Assistant-NLP/
 ├── requirements.txt
 ├── README.md
 └── assets/
+
 ⚙️ Working Process
 User speaks a command.
 Speech Recognition converts voice into text.
@@ -68,6 +71,7 @@ Intent of the command is identified.
 Appropriate action is executed.
 Response is generated.
 Text-to-Speech converts the response into voice.
+
 🔄 Workflow
 Voice Input
      ↓
@@ -82,6 +86,8 @@ Action Execution
 Response Generation
      ↓
 Text-to-Speech Output
+
+
 📊 NLP Techniques Used
 Tokenization
 Stop Word Removal
